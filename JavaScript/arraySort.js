@@ -8,7 +8,7 @@
 // console.log(fruits.reverse())     // Then reverse the order of the elements
 
 //huy thanh ngu vl
-//cc bung len gan guoc
+//dung sort de sap xep cac phan tu la so trong mang - co tinh de conflict
 // const points = [40, 100, 1, 5, 25, 10];
 // points.sort(function (a, b) { return a - b });
 // console.log(points);
